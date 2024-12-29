@@ -1,5 +1,5 @@
-# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 20.11.2023
+# Ex  SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 20.12.2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -58,9 +58,9 @@
 
 ![Alt text](<playing with axes.png>)
 
-### Name : RENUSRI NARAHARASHETTY
+### Name : Senthil Arunachalam P
 
-### Register Number : 23009126
+### Register Number : 24900904
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
